@@ -1,0 +1,9 @@
+hello
+this is a sample doc
+for testing the file functions in python
+
+am new line
+am new line
+am new line
+am new line
+am new line
